@@ -47,16 +47,12 @@ The **Sanfoundry MCQ Scraper** is a Chrome extension designed to effortlessly ex
 [
   {
     "id": "1",
-    "questions": [
-      {
-        "text": "Which of the following is an utility of state elimination phenomenon?",
-        "options": [
-          { "optionText": "DFA to NFA", "isCorrect": false },
-          { "optionText": "NFA to DFA", "isCorrect": false },
-          { "optionText": "DFA to Regular Expression", "isCorrect": true },
-          { "optionText": "All of the mentioned", "isCorrect": false }
-        ]
-      }
+    "question": "Which of the following is an utility of state elimination phenomenon?",
+    "options": [
+      "a) DFA to NFA",
+      "b) NFA to DFA",
+      "c) DFA to Regular Expression",
+      "d) All of the mentioned"
     ],
     "answer": "c",
     "explanation": "We use this algorithm to simplify a finite automaton to regular expression or vice versa. We eliminate states while converting given finite automata to its corresponding regular expression."
