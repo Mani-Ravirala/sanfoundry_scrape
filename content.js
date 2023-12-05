@@ -26,6 +26,7 @@ var pTags = document
   .getElementsByTagName("p");
 for (var i = 0; i < pTags.length; i++) {
   var content = pTags[i].textContent.trim();
+  console.log(content);
 
   // Check if the content is empty
   if (content.length === 0) {
