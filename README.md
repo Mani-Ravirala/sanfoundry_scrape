@@ -2,9 +2,9 @@
 
 ## Overview
 
-The **Sanfoundry MCQ Scraper** is a nifty Chrome extension designed to effortlessly extract multiple-choice questions and answers from Sanfoundry's educational pages. With a sprinkle of JavaScript magic, it neatly organizes the data into a JSON structure, making it a breeze to use for your learning adventures.
+The **Sanfoundry MCQ Scraper** is a Chrome extension designed to effortlessly extract multiple-choice questions and answers from Sanfoundry's educational pages. With a sprinkle of JavaScript magic, it neatly organizes the data into a JSON structure, making it a breeze to use for your learning adventures.
 
-![Sanfoundry MCQ Scraper](./images/shovel_3853572.png)
+![Sanfoundry MCQ Scraper](./images/icon128.png)
 
 ## Features ✨
 
@@ -18,7 +18,7 @@ The **Sanfoundry MCQ Scraper** is a nifty Chrome extension designed to effortles
    - Grab the extension files and save them to your local machine.
 
 2. **Chrome Settings:**
-   - Open Google Chrome and go to `chrome://extensions/`.
+   - Open Google Chrome and go to `chrome://extensions/`
 
 3. **Developer Mode:**
    - Enable "Developer mode" in the top right corner.
@@ -31,13 +31,10 @@ The **Sanfoundry MCQ Scraper** is a nifty Chrome extension designed to effortles
 1. **Navigate:**
    - Open Google Chrome and head to any Sanfoundry page with MCQs.
 
-2. **Click the Magic Wand:**
-   - Click on the extension icon in your toolbar.
-
-3. **Voila!**
+2. **Voila!**
    - Watch as the extension weaves its magic, extracting and formatting the data.
 
-4. **Clipboard Ready:**
+3. **Clipboard Ready:**
    - The formatted JSON data is now copied to your clipboard. Paste it wherever you need!
 
 ## Example Output 📋
