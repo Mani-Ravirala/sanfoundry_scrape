@@ -1,8 +1,9 @@
 {
     "manifest_version": 3,
     "name": "Scrape Sanfoundry MCQs",
+    "author": "Mani Ravirala",
     "version": "1.1",
-    "description": "Extract MCQs from sanfoundry",
+    "description": "Extract MCQs from sanfoundry website and copy to clipboard",
     "permissions": ["activeTab", "webNavigation", "clipboardWrite", "storage"],
     "background": {
       "service_worker": "background.js"
